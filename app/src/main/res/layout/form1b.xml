@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="105dp"
+            android:layout_height="117dp"
+            android:src="@drawable/lock"
+            android:layout_marginTop="78.3dp"
+            android:layout_marginLeft="130.96dp"
+        />
+
+        <TextView
+            android:layout_width="133dp"
+            android:layout_height="58dp"
+            android:fontFamily="@font/roboto_bold"
+            android:layout_marginTop="230dp"
+            android:layout_marginLeft="113dp"
+            android:text="FORGET PASSWORD"
+            android:textColor="#000000"
+            android:textSize="25sp" />
+
+</LinearLayout>
